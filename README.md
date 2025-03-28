@@ -1,6 +1,6 @@
-# Project 4 - *Memory Game*
+*Memory Game*
 
-Submitted by: **kiitan ayandosu**
+**kiitan ayandosu**
 
 **Memory Game** is an app that challenges players to match pairs of cards by flipping them over two at a time, testing and improving their memory skills. The game features customizable difficulty with selectable number of card pairs, smooth card-flipping animations, and a reset function that allows players to start fresh at any time.
 
